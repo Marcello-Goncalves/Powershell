@@ -2,7 +2,12 @@
 History
 Private
 
-# Files
+# Dot Files
 .env
 .vscode
 .DS_Store
+
+# PS Profile Files
+Profile.ps1
+Microsoft.PowerShell_profile.ps1
+Microsoft.VSCode_profile.ps1
